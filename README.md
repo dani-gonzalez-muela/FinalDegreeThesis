@@ -1,2 +1,2 @@
 # FinalDegreeThesis
-Python code of the final degree thesis
+Code and Data of my final degree thesis for the Bachelor in Mathematical Engineering at Pompeu Fabra University.
